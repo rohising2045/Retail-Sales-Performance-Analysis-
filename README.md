@@ -12,4 +12,4 @@ A data-driven project analyzing retail sales and store data to find key performa
 * Goal: Turn raw data into actionable business insights.
 * Author: Rohit Singh, 2025.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Retail_Sales_Analysis_dAshboard Screenshot.png)
